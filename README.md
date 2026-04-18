@@ -1,5 +1,5 @@
 🚀 DSA Journey - Day 1
-👨‍💻 Author : Omkar Sutar
+👨‍💻 Author :Omkar Sutar
 
 📅 Day 1 - Basics
 🔹 Problem: Swap Two Numbers
